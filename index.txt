@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>David J. Lerner, MD | Radiology Consulting</title>
+  <meta name="description" content="David J. Lerner, MD provides radiology malpractice consulting, including radiology AI error and misdiagnosis review." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="container hero-grid">
+      <div>
+        <div class="eyebrow">Physician Expert Witness &amp; Radiology Litigation Consulting</div>
+        <div class="nameplate">David J. Lerner, MD</div>
+        <div class="subhead">Board Certified Diagnostic Radiologist • Body Imaging / Abdominal Imaging • Physician Consultant • Radiology AI Error &amp; Misdiagnosis Review</div>
+        <h1>Premium radiology expert witness services for consequential medical malpractice litigation</h1>
+        <p class="lead">Independent, clinically grounded radiology analysis for attorneys handling complex negligence matters, high-exposure claims, and technically demanding imaging disputes.</p>
+        <div class="button-row">
+          <a class="button button-dark" href="#contact">Request Confidential Consultation</a>
+          <a class="button button-light" href="#services">Explore Services</a>
+        </div>
+        <div class="credential-grid">
+          <div class="pill">Board-certified radiologist</div>
+          <div class="pill">Active clinical practice</div>
+          <div class="pill">Consulting physician for radiology malpractice matters</div>
+          <div class="pill">Responsive to attorneys and insurers</div>
+        </div>
+      </div>
+      <div class="portrait-card">
+        <img src="assets/headshot.jpg" alt="David J. Lerner, MD headshot" />
+        <div class="portrait-text">
+          <div class="portrait-name">David J. Lerner, MD</div>
+          <div>Board Certified Diagnostic Radiologist</div>
+          <div>Body Imaging / Abdominal Imaging</div>
+          <div class="mt">Former Assistant Professor</div>
+          <div>University of Washington School of Medicine</div>
+          <div>University of Missouri–Kansas City School of Medicine</div>
+          <div>Seattle, Washington</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="section alt">
+    <div class="container split">
+      <div>
+        <div class="section-label">Expert positioning</div>
+        <h2>A polished physician presence for counsel who need technical depth and credibility</h2>
+      </div>
+      <div class="text-block">
+        <p>In radiology malpractice litigation, outcomes often hinge on nuanced questions involving visibility, perceptual error, differential diagnosis, reporting language, communication urgency, follow-up recommendations, and whether an imaging record supports the allegations being made.</p>
+        <p>A premium expert witness brand should convey rigor, discretion, independence, and command of complex material. This website is designed to feel elevated, selective, and attorney-facing rather than generic or promotional.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container card">
+      <div class="section-label">Representative Case Issues Reviewed</div>
+      <div class="grid3">
+        <div>Missed or delayed cancer diagnosis on CT, MRI, or ultrasound</div>
+        <div>Failure to detect abdominal pathology</div>
+        <div>Communication of critical imaging findings</div>
+        <div>Follow-up recommendation failures</div>
+        <div>Emergency department imaging interpretation</div>
+        <div>Body imaging diagnostic delays</div>
+        <div>Radiology workflow and reporting standards</div>
+        <div>Perceptual vs cognitive diagnostic errors</div>
+        <div>Opposing expert opinion review</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container card alt-card">
+      <div class="section-label">Radiology Topics Frequently Involved in Litigation</div>
+      <div class="grid3">
+        <div>Abdominal CT interpretation</div>
+        <div>Missed liver, pancreatic, or renal lesions</div>
+        <div>Appendicitis and acute abdominal conditions</div>
+        <div>Trauma imaging interpretation</div>
+        <div>Incidental findings and follow-up</div>
+        <div>Radiology report wording and communication</div>
+        <div>Imaging timeline analysis</div>
+        <div>Diagnostic delay causation analysis</div>
+        <div>Standard of care in radiologic interpretation</div>
+        <div>Radiology AI error and misdiagnosis analysis</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container card alt-card">
+      <div class="section-label">Emerging Issues in Radiology AI Litigation</div>
+      <p class="intro">Artificial intelligence is increasingly integrated into radiology workflow through detection tools, triage algorithms, and decision-support systems. These technologies are beginning to appear in malpractice litigation, raising new questions about standard of care, responsibility, and diagnostic reliability.</p>
+      <div class="grid3">
+        <div>AI triage systems failing to flag critical findings</div>
+        <div>Radiologist interpretation when AI detection tools are present</div>
+        <div>False reassurance from AI-assisted interpretation</div>
+        <div>Radiologist override or disregard of AI alerts</div>
+        <div>False positive AI alerts influencing diagnostic decisions</div>
+        <div>Standard of care when AI systems are integrated into workflow</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container card">
+      <div class="section-label">Attorney Resources</div>
+      <p class="intro">Radiology malpractice matters often involve complex imaging interpretation, emerging AI-assisted workflow questions, and clinical decision issues. These resources help attorneys quickly understand key radiology concepts frequently involved in litigation.</p>
+      <div class="grid3">
+        <div>Common causes of missed radiologic diagnoses</div>
+        <div>Understanding radiology report terminology</div>
+        <div>Imaging follow-up recommendations explained</div>
+        <div>How radiologists detect subtle imaging findings</div>
+        <div>Radiology workflow in emergency settings</div>
+        <div>How diagnostic delays are analyzed</div>
+        <div>Understanding AI-assisted radiology errors</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="services">
+    <div class="container">
+      <div class="section-label">Services</div>
+      <h2>Expert witness and consulting services for radiology negligence matters</h2>
+      <p class="intro">Designed for firms that value responsive communication, careful record analysis, and testimony-ready explanations of complex radiology issues.</p>
+      <div class="service-grid">
+        <div class="service-card"><h3>Merit &amp; Liability Review</h3><p>Sophisticated early case assessment for counsel evaluating liability exposure, standard-of-care questions, imaging chronology, and case viability before major litigation spend.</p></div>
+        <div class="service-card"><h3>Expert Record Analysis</h3><p>Comprehensive review of imaging, reports, timelines, communication pathways, follow-up recommendations, and clinical context to identify the issues most likely to matter in deposition, mediation, and trial.</p></div>
+        <div class="service-card"><h3>Standard of Care Opinions</h3><p>Independent, clearly reasoned opinions regarding radiologic interpretation, workflow, communication, causation considerations, and whether conduct aligned with accepted practice.</p></div>
+        <div class="service-card"><h3>Deposition Strategy Support</h3><p>Targeted assistance for preparing examinations, evaluating opposing expert positions, stress-testing themes, and refining technically accurate lines of questioning.</p></div>
+        <div class="service-card"><h3>Trial Preparation</h3><p>High-level support for exhibit selection, demonstrative planning, imaging explanation, chronology development, and presentation of complex radiology issues to judges and juries.</p></div>
+        <div class="service-card"><h3>Confidential Consulting</h3><p>Discreet physician-to-counsel collaboration with responsiveness, professionalism, and a premium standard of communication appropriate for complex, high-value matters.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section bordered">
+    <div class="container split">
+      <div>
+        <div class="section-label">Representative matters</div>
+        <h2>Common radiology issues in expert review</h2>
+        <div class="grid2 boxed-grid">
+          <div>Missed or delayed diagnosis</div>
+          <div>Communication of critical findings</div>
+          <div>Follow-up recommendation disputes</div>
+          <div>Emergency and trauma imaging issues</div>
+          <div>Cancer detection and interval change questions</div>
+          <div>Body imaging and cross-sectional interpretation</div>
+          <div>Radiology workflow and reporting standards</div>
+          <div>Opposing expert opinion analysis</div>
+          <div>Radiology AI Error &amp; Misdiagnosis Review</div>
+        </div>
+      </div>
+      <div class="dark-card">
+        <div class="section-label light">Engagement process</div>
+        <div class="step"><span>1</span><div>Confidential attorney inquiry and conflict screening</div></div>
+        <div class="step"><span>2</span><div>Secure transfer of relevant records, reports, and imaging</div></div>
+        <div class="step"><span>3</span><div>Focused preliminary assessment with defined scope and timeline</div></div>
+        <div class="step"><span>4</span><div>Verbal consultation and, when requested, formal written opinion</div></div>
+        <div class="step"><span>5</span><div>Ongoing support through deposition, mediation, and trial preparation</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container split">
+      <div class="card">
+        <div class="section-label">Professional biography</div>
+        <h2>David J. Lerner, MD</h2>
+        <div class="subbio">Board Certified Diagnostic Radiologist • Body Imaging / Abdominal Imaging • Seattle, Washington</div>
+        <div class="text-block">
+          <p>Dr. David J. Lerner is a board-certified diagnostic radiologist with approximately 10 years of active clinical practice and extensive experience interpreting high volumes of complex medical imaging. His subspecialty focus is Body Imaging / Abdominal Imaging, with daily practice across CT, MRI, ultrasound, and general radiography.</p>
+          <p>Dr. Lerner previously served as Assistant Professor of Radiology at the University of Washington School of Medicine and as Assistant Professor of Radiology at the University of Missouri–Kansas City School of Medicine. In these roles he participated in clinical teaching, research, and physician education while maintaining a high-volume clinical imaging workload.</p>
+          <p>He completed fellowship training in Abdominal / Body Imaging at the prestigious Mallinckrodt Institute of Radiology at Washington University in St. Louis. He completed residency at the University of Missouri–Kansas City School of Medicine, earned his medical degree from the University of Kansas School of Medicine, and received his undergraduate degree from Rutgers University.</p>
+          <p>Dr. Lerner has received multiple awards for education and research and has been involved in aerospace-related medical and imaging projects, including collaborations connected to organizations such as NASA, SpaceX, and CNES. He is also a Fellow of the Aerospace Medical Association.</p>
+          <p>A core strength of Dr. Lerner's consulting work is his ability to clearly explain complex radiologic findings and diagnostic decision-making to non-radiologists, attorneys, judges, and juries. His consulting practice focuses primarily on radiology malpractice matters, including Radiology AI Error &amp; Misdiagnosis Review, requiring careful imaging analysis, chronology review, and clear explanation of radiologic standards of care.</p>
+        </div>
+      </div>
+
+      <div class="card alt-card">
+        <div class="section-label">Curriculum vitae</div>
+        <h2>Credentials and background</h2>
+        <p class="intro">Add a downloadable CV and a concise one-page expert profile for attorneys who want a fast overview before scheduling a call.</p>
+        <div class="button-row">
+          <a class="button button-light" href="#">Download CV</a>
+          <a class="button button-light" href="#">View Expert Profile</a>
+        </div>
+        <div class="inner-card">
+          <div class="inner-title">Suggested credential highlights</div>
+          <ul>
+            <li>Board certification and subspecialty training</li>
+            <li>Years in active clinical practice</li>
+            <li>Current practice environment and case volume</li>
+            <li>Leadership, peer review, or quality committee roles</li>
+            <li>Teaching, publications, or invited speaking</li>
+            <li>States of licensure and testimony availability</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container card intake-wrap">
+      <div>
+        <div class="section-label">Attorney intake</div>
+        <h2>Initial case inquiry</h2>
+        <p class="intro">This section is designed to feel more private and high-end than a generic contact form. It signals that your practice is selective, organized, and accustomed to confidential litigation matters.</p>
+        <div class="note">Suggested note: Please do not transmit protected health information through this general inquiry form until conflicts have been addressed and secure transfer instructions have been provided.</div>
+      </div>
+      <form class="intake-form" onsubmit="event.preventDefault(); alert('This demo form is not yet connected to email.');">
+        <label>Attorney name<input type="text" placeholder="Full name" /></label>
+        <label>Law firm<input type="text" placeholder="Firm name" /></label>
+        <label>Email<input type="email" placeholder="name@firm.com" /></label>
+        <label>Phone<input type="text" placeholder="(###) ###-####" /></label>
+        <label class="span2">Case type<input type="text" placeholder="Missed diagnosis, delayed diagnosis, communication issue, etc." /></label>
+        <label class="span2">Brief description<textarea placeholder="Please provide a brief non-confidential summary of the matter."></textarea></label>
+        <div class="span2 form-footer">
+          <div class="small">Conflicts and secure transfer instructions will follow if the matter is a potential fit.</div>
+          <button class="button button-dark" type="submit">Submit Inquiry</button>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <section class="section contact" id="contact">
+    <div class="container split">
+      <div>
+        <div class="section-label light">Contact</div>
+        <h2>Request a confidential case consultation</h2>
+        <p class="intro light-text">Replace this section with your preferred intake language, secure contact details, conflicts language, and whether you accept consulting-only, expert witness, or testimony engagements.</p>
+        <div class="button-row">
+          <a class="button button-gold" href="mailto:dlerner111@gmail.com">dlerner111@gmail.com</a>
+          <a class="button button-outline" href="tel:+12065551212">913-269-1660</a>
+        </div>
+      </div>
+      <div class="glass-card">
+        <div class="glass-title">Recommended premium additions</div>
+        <ul>
+          <li>Add your full name and credential line prominently in the hero section.</li>
+          <li>Include a downloadable CV and a concise printable one-page profile.</li>
+          <li>Add a refined attorney intake form instead of a generic contact section.</li>
+          <li>Include jurisdictional/licensure language and case acceptance criteria.</li>
+          <li>Keep the aesthetic restrained, spacious, and professional.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section faq">
+    <div class="container">
+      <div class="section-label">Frequently asked questions</div>
+      <div class="faq-grid">
+        <div class="faq-item"><h3>Who is this practice designed for?</h3><p>Primarily law firms, trial counsel, and claims professionals seeking high-level radiology expertise for complex medical negligence and imaging-related disputes.</p></div>
+        <div class="faq-item"><h3>What types of engagements are available?</h3><p>This practice focuses on consulting engagements in radiology malpractice matters, including Radiology AI Error &amp; Misdiagnosis Review. Work typically involves case merit evaluation, imaging analysis, and expert consultation for counsel.</p></div>
+        <div class="faq-item"><h3>What makes a radiology expert particularly valuable in these matters?</h3><p>Many cases turn on subtle but decisive questions: what was visible, what should reasonably have been recognized, whether communication was timely, and how imaging findings should be understood in real clinical workflow.</p></div>
+        <div class="faq-item"><h3>How are fees typically structured?</h3><p>Typical consulting structure includes a $500 hourly case review rate with a $2,000 minimum retainer. Report preparation and deposition services are available under separate engagement terms.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer-row">
+      <div>© 2026 Radiology Expert Witness Consulting</div>
+      <div>This template should be customized to reflect your actual credentials, services, licensure, and legal or ethical requirements in your jurisdiction.</div>
+    </div>
+  </footer>
+</body>
+</html>
