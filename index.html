@@ -185,9 +185,10 @@
         <h2>Credentials and background</h2>
         <p class="intro">Download a full curriculum vitae or a concise one-page expert profile for attorney review.</p>
         <div class="button-row">
-          <a class="button button-light" href="assets/lerner-cv.pdf" target="_blank" rel="noopener">Download CV</a>
-          <a class="button button-light" href="assets/expert-profile.pdf" target="_blank" rel="noopener">View Expert Profile</a>
+          <a class="button button-light" href="./assets/lerner-cv.pdf" target="_blank" rel="noopener" download>Download CV</a>
+          <a class="button button-light" href="./assets/expert-profile.pdf" target="_blank" rel="noopener" download>View Expert Profile</a>
         </div>
+        <p class="intro" style="margin-top:14px;">If a button does not open in your browser, right-click and choose “Open link in new tab” or “Save link as.”</p>
         <div class="inner-card">
           <div class="inner-title">Credential highlights</div>
           <ul>
@@ -218,28 +219,7 @@
     </div>
   </section>
 
-  <section class="section">
-    <div class="container card intake-wrap">
-      <div>
-        <div class="section-label">Attorney intake</div>
-        <div class="note">Please do not transmit protected health information through this general inquiry form until conflicts have been addressed and secure transfer instructions have been provided.</div>
-      </div>
-      <form class="intake-form" onsubmit="event.preventDefault(); alert('This demo form is not yet connected to email.');">
-        <label>Attorney name<input type="text" placeholder="Full name" /></label>
-        <label>Law firm<input type="text" placeholder="Firm name" /></label>
-        <label>Email<input type="email" placeholder="name@firm.com" /></label>
-        <label>Phone<input type="text" placeholder="(###) ###-####" /></label>
-        <label class="span2">Case type<input type="text" placeholder="Missed diagnosis, delayed diagnosis, communication issue, etc." /></label>
-        <label class="span2">Brief description<textarea placeholder="Please provide a brief non-confidential summary of the matter."></textarea></label>
-        <div class="span2 form-footer">
-          <div class="small">Conflicts and secure transfer instructions will follow if the matter is a potential fit.</div>
-          <button class="button button-dark" type="submit">Submit Inquiry</button>
-        </div>
-      </form>
-    </div>
-  </section>
-
-  <section class="section contact" id="contact">
+<section class="section contact" id="contact">
     <div class="container split">
       <div>
         <div class="section-label light">Contact</div>
