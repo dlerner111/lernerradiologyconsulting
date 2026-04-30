@@ -1,0 +1,35 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {
+      colors: {
+        bg: "#f7f6f3",
+        paper: "#ffffff",
+        paperAlt: "#fcfbf8",
+        ink: "#0f172a",
+        muted: "#475569",
+        line: "#dfd8cb",
+        gold: "#ba9452",
+        goldDark: "#8a6831",
+        goldTabBorder: "#ecdab8",
+        goldTabBg: "#fbf4e6",
+        nameText: "#667085",
+        dark: "#0f172a",
+        dark2: "#111827",
+        lightText: "#5c6676",
+        cardText: "#445062",
+        cardBorder: "#e4ddd1",
+        headerText: "#516072",
+        bodyText: "#5a6472",
+        buttonBorder: "#cfc7b8",
+        bulletText: "#556172",
+        goldLightText: "#f1d295",
+        goldLightBg: "#d7ad65",
+        goldDarkText: "#231809",
+        footerButtonText: "#1b1408",
+      },
+    },
+  },
+  plugins: [],
+};
