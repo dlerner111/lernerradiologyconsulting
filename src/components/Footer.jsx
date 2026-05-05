@@ -17,9 +17,9 @@ const Footer = () => {
           <div className="mt-7">
             <a
               className="inline-flex min-h-12 items-center justify-center rounded-2xl bg-gold px-5 text-[15px] font-bold text-footerButtonText shadow-[0_10px_28px_rgba(186,148,82,.22)] transition hover:-translate-y-px"
-              href="mailto:dlerner111@gmail.com"
+              href="mailto:contact@davidlernermd.com"
             >
-              dlerner111@gmail.com
+              contact@davidlernermd.com
             </a>
           </div>
         </div>
